@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ERP_Management_System.crtParentsClass" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAJAAAQAAAAAAAIAAAAAAAAAAAACAABAAAABAA=</HashCode>
+      <FileName>bin\Debug\crtParentsClass.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERP_Management_System.CachedcrtParentsClass" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>bin\Debug\crtParentsClass.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ERP_Management_System.crtStaffClass" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAJAAAQAAAAAAAIAAAAAAAAAAAACAABAAAABAA=</HashCode>
+      <FileName>bin\Debug\crtStaffClass.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERP_Management_System.CachedcrtStaffClass" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>bin\Debug\crtStaffClass.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ERP_Management_System.crtStudentClass" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAJAAAQAAAAAAAIAAAAAAAAAAAACAABAAAABAA=</HashCode>
+      <FileName>bin\Debug\crtStudentClass.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERP_Management_System.CachedcrtStudentClass" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>bin\Debug\crtStudentClass.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ERP_Management_System.crtTeacherClass" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAJAAAQAAAAAAAIAAAAAAAAAAAACAABAAAABAA=</HashCode>
+      <FileName>bin\Debug\crtTeacherClass.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERP_Management_System.CachedcrtTeacherClass" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>bin\Debug\crtTeacherClass.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ERP_Management_System.frmCheckMark" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UBAxKAEPECMwAAAoAAOAAgjigHj/MAACAHgAAAQAISA=</HashCode>
+      <FileName>frmCheckMark.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERP_Management_System.frmCurrentUserProfile" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DQgAEIAQIaIAIAEAAIiAAEgCIAAAAIIAAhQAAIAEAQA=</HashCode>
+      <FileName>frmCurrentUserProfile.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERP_Management_System.frmExit" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAQAAAAAACAAAgCgCAAYAAAAEAAAAAAAAA=</HashCode>
+      <FileName>frmExit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERP_Management_System.frmLogin" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>PEgQQIFQAyIJBEAAIAOsIAQu42ACZopIAtQAIABEQLw=</HashCode>
+      <FileName>frmLogin.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERP_Management_System.frmMainForm" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cdcRo+qGFfbd4QvgKyC/cN2zsXb/+s3J8mfa9kUrW14=</HashCode>
+      <FileName>frmMain.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERP_Management_System.frmNewUser" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>TBQAIBASGCACJAEEAwCABECCYAAAbIJAAgQAAACEAQA=</HashCode>
+      <FileName>frmNewUser.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERP_Management_System.frmNoticeBoard" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACIBAAAAAAKAAAACAEEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmNoticeBoard.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERP_Management_System.frmPrivateNote" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAAAAIAAACAAAACADCQAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>frmPrivateNote.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERP_Management_System.frmViewData" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAIAAAQECAABAABAACAAAQCQAAAAgAIAQAAAAACEAA=</HashCode>
+      <FileName>frmViewData.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERP_Management_System.My.MyApplication" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ERP_Management_System.My.MySettings" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAABAAIAAABAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="ERP_Management_System.My.MySettingsProperty" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="ERP_Management_System.My.Resources.Resources" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

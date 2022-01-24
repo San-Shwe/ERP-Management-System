@@ -1,0 +1,38 @@
+C:\Users\Kaizaki Arata\Desktop\ERP Management System\ERP Management System\ERP Management System\bin\Debug\ERP Management System.exe
+C:\Users\Kaizaki Arata\Desktop\ERP Management System\ERP Management System\ERP Management System\bin\Debug\ERP Management System.pdb
+C:\Users\Kaizaki Arata\Desktop\ERP Management System\ERP Management System\ERP Management System\bin\Debug\ERP Management System.xml
+C:\Users\Kaizaki Arata\Desktop\ERP Management System\ERP Management System\ERP Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kaizaki Arata\Desktop\ERP Management System\ERP Management System\ERP Management System\obj\Debug\ERP_Management_System.Resources.resources
+C:\Users\Kaizaki Arata\Desktop\ERP Management System\ERP Management System\ERP Management System\obj\Debug\ERP Management System.vbproj.GenerateResource.Cache
+C:\Users\Kaizaki Arata\Desktop\ERP Management System\ERP Management System\ERP Management System\obj\Debug\ERP Management System.exe
+C:\Users\Kaizaki Arata\Desktop\ERP Management System\ERP Management System\ERP Management System\obj\Debug\ERP Management System.xml
+C:\Users\Kaizaki Arata\Desktop\ERP Management System\ERP Management System\ERP Management System\obj\Debug\ERP Management System.pdb
+C:\Users\Kaizaki Arata\Desktop\ERP Management System\ERP Management System\ERP Management System\obj\Debug\ERP_Management_System.frmLogin.resources
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\obj\Debug\ERP Management System.exe
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\obj\Debug\ERP Management System.xml
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\obj\Debug\ERP Management System.pdb
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\bin\Debug\ERP Management System.exe
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\bin\Debug\ERP Management System.pdb
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\bin\Debug\ERP Management System.xml
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\obj\Debug\ResolveAssemblyReference.cache
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\obj\Debug\ERP_Management_System.frmLogin.resources
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\obj\Debug\ERP_Management_System.Resources.resources
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\obj\Debug\ERP Management System.vbproj.GenerateResource.Cache
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\bin\Debug\Modal.pdb
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\bin\Debug\Modal.xml
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\bin\Debug\BusinessLogic.pdb
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\bin\Debug\BusinessLogic.xml
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\bin\Debug\DataAccecss.pdb
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\bin\Debug\DataAccecss.xml
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\bin\Debug\ERP Management System.exe.config
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\obj\Debug\ERP_Management_System.frmNewUser.resources
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\obj\Debug\ERP_Management_System.frmViewData.resources
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\obj\Debug\ERP_Management_System.frmCurrentUserProfile.resources
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\obj\Debug\ERP_Management_System.frmMainForm.resources
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\obj\Debug\ERP_Management_System.frmNoticeBoard.resources
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\obj\Debug\ERP_Management_System.frmExit.resources
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\bin\Debug\BusinessLogic.dll
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\bin\Debug\DataAccecss.dll
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\bin\Debug\Modal.dll
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\obj\Debug\ERP_Management_System.frmPrivateNote.resources
+D:\Future Dream\ERP Management System\ERP Management System\ERP Management System\obj\Debug\ERP_Management_System.frmCheckMark.resources
